@@ -178,6 +178,4 @@ Sample POST Body:
 
 ---
 
-**Agar aapko kisi section ka sample code, UI design, JSON schema, ya full project template chahiye—even backend ka sample FastAPI/Flask ka code—woh bhi provide kiya ja sakta hai!**
 
----
