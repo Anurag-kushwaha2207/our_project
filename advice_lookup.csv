@@ -1,0 +1,7 @@
+Disease,Hydration_Advice,Temperature_Advice
+Influenza,"Drink ORS or 3–4 glasses extra; rest and monitor.","Moderate fever: paracetamol may be taken; rest & hydrate."
+Flu,"Drink ORS or 3–4 glasses extra; rest and monitor.","Moderate fever: paracetamol may be taken; rest & hydrate."
+Asthma,"Maintain normal fluids; avoid cold drinks; seek medical help if wheeze persists.","Follow asthma action plan; urgent care if severe breathing difficulty."
+Cold,"Sip warm fluids frequently; steam inhalation may help.","Mild fever: rest, hydrate, monitor temperature."
+COVID-19,"Hydrate well; small frequent sips, monitor oxygen; seek care if breathless.","If fever present, antipyretic (paracetamol) and seek medical advice if worsening."
+Other,"Maintain normal fluid intake; consult a doctor if symptoms persist or worsen.","If fever present, monitor closely; seek medical help for high fevers or worrying symptoms."

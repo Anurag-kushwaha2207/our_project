@@ -3,11 +3,10 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-in_path = Path("final_dataset_with_advice.csv")  # adjust if your file name different
+# Path to the actual dataset file present in this repo
+in_path = Path("Disease_symptom_and_patient_profile_dataset.csv")
 if not in_path.exists():
-    in_path = Path("cleaned_disease_dataset.csv")
-    if not in_path.exists():
-        raise FileNotFoundError("Dataset file not found in current directory.")
+    raise FileNotFoundError("Dataset file not found in current directory.")
 
 df = pd.read_csv(in_path)
 

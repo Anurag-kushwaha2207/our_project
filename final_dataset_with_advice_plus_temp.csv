@@ -1,0 +1,1089 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable,id,Temperature_F,Fever_Level,Hydration_Advice,Temperature_Advice
+Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive,1.0,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,2.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,3.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,4.0,102.6,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,5.0,99.9,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive,6.0,99.9,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,7.0,99.3,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,8.0,104.2,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,9.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,10.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive,11.0,99.1,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative,12.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative,13.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Common Cold,No,No,No,No,29,Female,Low,Normal,Negative,14.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,No,No,29,Male,Low,Normal,Negative,15.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative,16.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative,17.0,100.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative,18.0,97.8,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive,19.0,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,20.0,100.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,21.0,102.7,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive,22.0,99.8,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,23.0,100.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,24.0,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Eczema,No,Yes,Yes,No,30,Male,High,High,Negative,25.0,97.6,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative,26.0,103.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative,27.0,100.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative,28.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative,29.0,102.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,30.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative,31.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative,32.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative,33.0,99.4,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,34.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,35.0,104.8,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,36.0,103.9,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,37.0,100.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive,38.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive,39.0,103.1,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,40.0,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,41.0,99.7,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive,42.0,97.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive,43.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Eczema,Yes,No,No,No,30,Male,High,High,Positive,44.0,104.5,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive,45.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive,46.0,103.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,47.0,100.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive,48.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive,49.0,102.3,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Urinary Tract Infection (UTI),Yes,No,No,No,30,Female,Normal,Normal,Positive,50.0,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative,51.0,98.8,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,Negative,52.0,98.4,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Common Cold,Yes,No,Yes,Yes,31,Male,High,High,Positive,53.0,104.6,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Migraine,Yes,No,No,No,31,Female,Normal,Normal,Positive,54.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,Positive,55.0,102.6,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,Negative,56.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,35,Female,Normal,High,Negative,57.0,96.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,58.0,100.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,59.0,96.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,60.0,97.3,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Atherosclerosis,No,No,Yes,No,35,Male,Normal,Normal,Negative,61.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Negative,62.0,100.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,Negative,63.0,104.0,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Eczema,No,Yes,No,No,35,Male,High,Normal,Negative,64.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Epilepsy,No,No,Yes,No,35,Male,High,High,Negative,65.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,Negative,66.0,102.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative,67.0,99.8,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,Negative,68.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,69.0,99.4,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,70.0,104.9,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Psoriasis,Yes,No,No,No,35,Female,Normal,Low,Negative,71.0,103.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,Negative,72.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,73.0,99.0,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,74.0,103.9,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male,High,High,Negative,75.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,76.0,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,77.0,103.6,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cirrhosis,No,No,Yes,No,35,Female,Normal,High,Positive,78.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,Positive,79.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Depression,No,No,Yes,No,35,Female,Normal,High,Positive,80.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,Positive,81.0,104.2,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,82.0,102.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,83.0,101.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Kidney Cancer,No,No,Yes,No,35,Male,High,High,Positive,84.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Liver Cancer,No,No,Yes,No,35,Female,High,High,Positive,85.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Liver Disease,No,No,Yes,No,35,Male,High,High,Positive,86.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,87.0,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,88.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Migraine,No,Yes,Yes,No,35,Male,High,High,Positive,89.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Migraine,Yes,No,No,No,35,Male,High,High,Positive,90.0,101.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Pancreatitis,No,No,Yes,No,35,Male,Normal,High,Positive,91.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,Positive,92.0,103.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,Positive,93.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Spina Bifida,No,No,Yes,No,35,Female,Normal,Normal,Positive,94.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,Positive,95.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,Positive,96.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,Positive,97.0,102.1,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,Negative,98.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Depression,No,No,No,No,38,Female,Normal,High,Negative,99.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Negative,100.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Influenza,No,No,No,No,38,Male,Normal,Normal,Negative,101.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,Negative,102.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,Negative,103.0,100.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,Negative,104.0,97.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Osteoporosis,No,Yes,No,No,38,Female,Normal,High,Negative,105.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Stroke,Yes,Yes,No,No,38,Female,High,Normal,Negative,106.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,Positive,107.0,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,Positive,108.0,103.5,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Migraine,Yes,Yes,No,No,38,Male,High,High,Positive,109.0,100.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,Positive,110.0,99.5,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Positive,111.0,100.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Klinefelter Syndrome,No,No,Yes,No,39,Female,Normal,Normal,Positive,112.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Acne,No,No,Yes,No,40,Male,Normal,Normal,Negative,113.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,Negative,114.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,Negative,115.0,98.0,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,Negative,116.0,98.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Diabetes,Yes,No,No,No,40,Female,High,High,Negative,117.0,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Glaucoma,No,No,Yes,No,40,Male,High,Normal,Negative,118.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,Negative,119.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,120.0,102.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,121.0,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Asthma,Yes,No,Yes,No,40,Male,Low,Normal,Positive,122.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,123.0,100.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,124.0,99.7,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Asthma,No,No,Yes,Yes,40,Male,High,High,Positive,125.0,97.0,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,126.0,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,127.0,103.9,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,128.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,129.0,96.5,Normal,Normal fluid intake.,Temperature normal.
+Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,Positive,130.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,Positive,131.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Fibromyalgia,No,No,Yes,No,40,Female,High,High,Positive,132.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,Positive,133.0,99.7,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,Positive,134.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Hyperthyroidism,No,No,Yes,No,40,Male,High,High,Positive,135.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Hypoglycemia,No,No,Yes,No,40,Female,High,High,Positive,136.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Lymphoma,No,Yes,No,No,40,Female,Normal,High,Positive,137.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,Positive,138.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,Positive,139.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Psoriasis,Yes,No,No,No,40,Male,High,Normal,Positive,140.0,104.8,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Psoriasis,No,Yes,No,No,40,Female,Normal,High,Positive,141.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,142.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,143.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,Negative,144.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Common Cold,Yes,Yes,No,No,42,Female,High,High,Negative,145.0,100.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Depression,Yes,No,No,Yes,42,Male,High,Normal,Negative,146.0,99.2,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Influenza,No,Yes,No,No,42,Female,Normal,High,Negative,147.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,Negative,148.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,149.0,99.3,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,Negative,150.0,100.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,151.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Migraine,Yes,Yes,Yes,No,42,Male,High,High,Negative,152.0,100.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,Negative,153.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Stroke,Yes,No,Yes,No,42,Male,Normal,Low,Negative,154.0,101.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,Negative,155.0,98.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Diabetes,Yes,Yes,Yes,No,42,Male,High,Normal,Positive,156.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,157.0,103.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,158.0,103.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,Positive,159.0,100.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,Positive,160.0,98.2,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,Negative,161.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Autism Spectrum Disorder (ASD),No,No,Yes,No,45,Male,Normal,Normal,Negative,162.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Crohn's Disease,Yes,No,Yes,No,45,Male,High,Normal,Negative,163.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,164.0,102.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,165.0,99.5,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,Negative,166.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,167.0,97.3,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,Negative,168.0,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Melanoma,Yes,No,Yes,No,45,Male,High,Normal,Negative,169.0,99.2,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Migraine,No,No,No,No,45,Female,Low,Normal,Negative,170.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,Negative,171.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,172.0,96.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,Negative,173.0,102.1,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Stroke,No,No,Yes,No,45,Male,Normal,Normal,Negative,174.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,175.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,176.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,Negative,177.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,178.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,179.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,180.0,99.8,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,181.0,101.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,182.0,99.7,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,183.0,104.5,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Cataracts,No,No,Yes,No,45,Female,Normal,High,Positive,184.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Crohn's Disease,No,No,Yes,No,45,Female,High,High,Positive,185.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Crohn's Disease,Yes,Yes,Yes,No,45,Female,High,High,Positive,186.0,103.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Depression,No,No,Yes,No,45,Female,High,High,Positive,187.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,Yes,No,Yes,No,45,Female,High,High,Positive,188.0,102.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Diabetes,No,Yes,Yes,No,45,Male,Normal,High,Positive,189.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,Yes,No,Yes,No,45,Male,Normal,High,Positive,190.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Hypothyroidism,No,No,Yes,No,45,Female,High,High,Positive,191.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,192.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,193.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,194.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,Positive,195.0,101.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Osteoporosis,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,196.0,101.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female,High,High,Positive,197.0,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,Positive,198.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Scoliosis,No,No,No,No,45,Female,High,High,Positive,199.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,Positive,200.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,201.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,202.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,No,No,48,Female,Low,High,Negative,203.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,204.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,205.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,Negative,206.0,99.1,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Anemia,No,No,Yes,No,50,Male,Normal,Normal,Negative,207.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,Negative,208.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,209.0,99.0,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,210.0,100.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Crohn's Disease,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,211.0,102.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Crohn's Disease,No,No,Yes,No,50,Male,Normal,High,Negative,212.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Depression,No,Yes,Yes,No,50,Female,Low,Low,Negative,213.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,Yes,No,No,50,Male,Normal,High,Negative,214.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Endometriosis,Yes,No,No,No,50,Male,High,Normal,Negative,215.0,103.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hypertension,No,Yes,No,No,50,Female,Normal,Low,Negative,216.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,217.0,101.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Kidney Cancer,No,Yes,No,No,50,Male,Low,High,Negative,218.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,Negative,219.0,98.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Pancreatitis,No,Yes,No,No,50,Male,Low,High,Negative,220.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,Negative,221.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative,222.0,102.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Sleep Apnea,Yes,No,Yes,Yes,50,Male,High,High,Negative,223.0,99.6,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,Negative,224.0,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,Positive,225.0,100.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,Positive,226.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Down Syndrome,No,No,Yes,No,50,Female,High,High,Positive,227.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,228.0,101.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,229.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Eczema,No,Yes,No,No,50,Female,High,High,Positive,230.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,Positive,231.0,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Klinefelter Syndrome,No,No,Yes,No,50,Female,Normal,Normal,Positive,232.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,Positive,233.0,97.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,234.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,235.0,100.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,Positive,236.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Pneumothorax,No,No,Yes,Yes,50,Female,High,High,Positive,237.0,97.2,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Stroke,No,Yes,Yes,Yes,50,Male,High,High,Positive,238.0,96.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,Positive,239.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative,240.0,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,241.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,242.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative,243.0,104.5,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative,244.0,97.4,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative,245.0,99.1,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative,246.0,104.6,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative,247.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative,248.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,249.0,104.8,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,250.0,104.1,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Hypertension,No,Yes,No,No,55,Female,Normal,Low,Negative,251.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Liver Disease,No,Yes,Yes,No,55,Male,High,Low,Negative,252.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Marfan Syndrome,No,No,Yes,No,55,Male,High,High,Negative,253.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,Negative,254.0,97.3,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Osteoporosis,No,No,Yes,No,55,Male,High,Normal,Negative,255.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,256.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,257.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,Positive,258.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,259.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,260.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Hemorrhoids,No,No,No,No,55,Female,High,High,Positive,261.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,Yes,No,Yes,No,55,Male,High,Normal,Positive,262.0,104.9,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Hypothyroidism,No,No,Yes,No,55,Female,High,High,Positive,263.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,Positive,264.0,102.1,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,Positive,265.0,104.3,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,Positive,266.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,267.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,268.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,Female,Normal,Normal,Positive,269.0,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female,High,High,Positive,270.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,271.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,272.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Influenza,Yes,Yes,Yes,Yes,56,Male,High,High,Positive,273.0,104.2,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,Negative,274.0,104.5,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Breast Cancer,No,No,Yes,No,60,Male,High,High,Negative,275.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,276.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,277.0,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative,278.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,279.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,280.0,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative,281.0,98.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative,282.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative,283.0,101.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,284.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,285.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative,286.0,99.2,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,287.0,101.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,Positive,288.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,Positive,289.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,290.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,291.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,Yes,No,60,Female,High,Normal,Positive,292.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,Yes,No,Yes,No,60,Male,High,Normal,Positive,293.0,103.9,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hypertension,No,No,No,No,60,Female,High,High,Positive,294.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,295.0,99.8,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,296.0,102.1,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,Positive,297.0,103.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Pancreatitis,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,298.0,100.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,299.0,102.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,300.0,99.5,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Prader-Willi Syndrome,No,No,Yes,No,60,Female,Normal,Normal,Positive,301.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Rheumatoid Arthritis,No,No,Yes,No,60,Female,High,High,Positive,302.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Thyroid Cancer,No,No,Yes,No,60,Female,High,High,Positive,303.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Tuberculosis,Yes,Yes,Yes,No,60,Female,High,High,Positive,304.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Bladder Cancer,No,No,Yes,No,65,Male,Normal,Normal,Negative,305.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative,306.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative,307.0,102.1,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,308.0,100.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,309.0,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative,310.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male,High,Normal,Negative,311.0,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,312.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,313.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Alzheimer's Disease,No,No,Yes,No,65,Female,High,High,Positive,314.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive,315.0,104.0,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,316.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,317.0,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Dementia,No,No,Yes,No,65,Female,High,High,Positive,318.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive,319.0,99.9,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive,320.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,321.0,102.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,322.0,103.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive,323.0,103.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,324.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,325.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive,326.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive,327.0,102.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,328.0,102.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,329.0,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative,330.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,331.0,97.4,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,332.0,98.3,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative,333.0,99.1,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Parkinson's Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative,334.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative,335.0,99.3,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative,336.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive,337.0,104.1,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive,338.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,339.0,97.6,Normal,Normal fluid intake.,Temperature normal.
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,340.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive,341.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive,342.0,101.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive,343.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,344.0,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,345.0,101.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,346.0,102.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,347.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,348.0,99.3,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,349.0,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Common Cold,Yes,Yes,No,No,25,Male,Normal,Normal,Negative,101.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Common Cold,Yes,Yes,No,No,22,Female,Normal,Normal,Negative,102.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Common Cold,Yes,No,Yes,No,20,Female,Normal,Normal,Negative,103.0,104.1,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Common Cold,Yes,Yes,No,No,27,Male,Normal,Normal,Negative,104.0,103.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Common Cold,Yes,Yes,No,No,25,Male,Normal,Normal,Negative,105.0,100.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Influenza,Yes,Yes,Yes,Yes,22,Male,High,Normal,Positive,106.0,99.4,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Influenza,Yes,Yes,Yes,Yes,24,Female,Low,Normal,Positive,107.0,102.9,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Influenza,Yes,No,Yes,No,26,Female,Normal,High,Positive,108.0,99.2,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Influenza,Yes,Yes,Yes,Yes,28,Female,Normal,Normal,Positive,109.0,102.5,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Influenza,Yes,No,Yes,No,25,Male,Normal,Normal,Positive,110.0,104.6,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Asthma,No,Yes,Yes,Yes,23,Male,Normal,Normal,Negative,111.0,97.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,No,Yes,Yes,21,Female,Normal,Normal,Negative,112.0,97.4,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,22,Male,Normal,Normal,Negative,113.0,98.0,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,No,Yes,20,Female,Normal,Normal,Negative,114.0,97.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,29,Male,Normal,Normal,Negative,115.0,97.8,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Gastroenteritis,Yes,No,Yes,No,20,Female,Low,Normal,Negative,116.0,104.6,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Gastroenteritis,Yes,No,Yes,No,21,Male,Low,Normal,Negative,117.0,101.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Gastroenteritis,No,No,Yes,No,22,Female,Low,Normal,Negative,118.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,Yes,Yes,Yes,No,24,Male,Low,Normal,Negative,119.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Gastroenteritis,Yes,No,Yes,No,26,Female,Low,High,Negative,120.0,100.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Diabetes,No,No,Yes,No,45,Male,High,High,Negative,121.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,Yes,No,42,Female,High,High,Negative,122.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,Yes,No,48,Female,High,High,Negative,123.0,96.5,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,Yes,No,52,Male,High,High,Negative,124.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,Yes,No,40,Female,High,High,Negative,125.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+COVID-19,Yes,Yes,Yes,Yes,35,Female,High,Normal,Positive,126.0,99.4,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+COVID-19,Yes,Yes,Yes,Yes,32,Male,High,Normal,Positive,127.0,100.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+COVID-19,Yes,Yes,Yes,Yes,31,Female,High,Normal,Positive,128.0,104.1,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+COVID-19,Yes,Yes,Yes,Yes,36,Male,High,Normal,Positive,129.0,99.1,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+COVID-19,Yes,Yes,Yes,Yes,33,Female,High,Normal,Positive,130.0,103.9,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Hypertension,No,No,No,No,55,Male,High,High,Negative,131.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,No,No,53,Female,High,High,Negative,132.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,No,No,52,Male,High,High,Negative,133.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,No,No,54,Female,High,High,Negative,134.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,No,No,57,Male,High,High,Negative,135.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Common Cold,Yes,Yes,No,No,25,Male,Normal,Normal,Negative,201.0,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Common Cold,Yes,Yes,No,No,26,Female,Normal,Normal,Negative,202.0,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Common Cold,No,Yes,No,No,28,Male,Normal,Normal,Negative,203.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Flu,Yes,Yes,Yes,No,30,Male,Normal,Normal,Positive,204.0,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Flu,Yes,No,Yes,No,27,Female,Normal,Normal,Positive,205.0,103.5,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Flu,Yes,Yes,Yes,Yes,32,Female,High,Normal,Positive,206.0,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Viral Fever,Yes,No,Yes,No,18,Male,Normal,Normal,Positive,207.0,104.9,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Viral Fever,Yes,Yes,Yes,No,19,Female,Normal,Normal,Positive,208.0,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Viral Fever,Yes,No,Yes,No,21,Male,Normal,Normal,Positive,209.0,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Migraine,No,No,Yes,No,23,Female,Normal,Normal,Negative,210.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Migraine,No,No,Yes,No,22,Male,Normal,Normal,Negative,211.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Migraine,No,No,Yes,No,24,Female,Normal,Normal,Negative,212.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Sinusitis,No,Yes,Yes,No,30,Female,Normal,High,Negative,213.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Sinusitis,No,Yes,No,No,31,Male,Normal,High,Negative,214.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Sinusitis,No,Yes,Yes,No,29,Female,Normal,High,Negative,215.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Allergy,No,Yes,No,No,26,Male,Normal,Normal,Negative,216.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Allergy,No,Yes,Yes,No,27,Female,Normal,Normal,Negative,217.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Allergy,No,Yes,No,No,25,Female,Normal,Normal,Negative,218.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+COVID-19,Yes,Yes,Yes,Yes,35,Female,High,Normal,Positive,219.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+COVID-19,Yes,Yes,Yes,Yes,32,Male,High,Normal,Positive,220.0,104.0,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+COVID-19,Yes,Yes,Yes,Yes,33,Female,High,Normal,Positive,221.0,100.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Headache,No,No,Yes,No,22,Male,Normal,Normal,Negative,222.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Headache,No,No,Yes,No,21,Female,Normal,Normal,Negative,223.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Headache,No,No,Yes,No,27,Female,Normal,Normal,Negative,224.0,96.5,Normal,Normal fluid intake.,Temperature normal.
+Throat Infection,Yes,Yes,No,No,25,Male,Normal,Normal,Positive,225.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Throat Infection,Yes,Yes,No,No,26,Female,Normal,Normal,Positive,226.0,99.5,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Throat Infection,No,Yes,No,No,28,Male,Normal,Normal,Positive,227.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Muscle Pain,No,No,Yes,No,29,Male,Normal,Normal,Negative,228.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Muscle Pain,No,No,Yes,No,31,Female,Normal,Normal,Negative,229.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Muscle Pain,No,No,Yes,No,30,Male,Normal,Normal,Negative,230.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Seasonal Allergy,No,Yes,No,No,24,Female,Normal,Normal,Negative,231.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Seasonal Allergy,No,Yes,No,No,23,Male,Normal,Normal,Negative,232.0,97.6,Normal,Normal fluid intake.,Temperature normal.
+Body Ache,No,No,Yes,No,28,Female,Normal,Normal,Negative,233.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Body Ache,No,No,Yes,No,27,Male,Normal,Normal,Negative,234.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Dengue,Yes,No,Yes,No,18,Female,Normal,High,Positive,235.0,103.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Dengue,Yes,No,Yes,No,20,Male,Normal,High,Positive,236.0,103.5,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Typhoid,Yes,No,Yes,No,24,Male,High,Normal,Positive,237.0,103.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Typhoid,Yes,No,Yes,No,25,Female,High,Normal,Positive,238.0,103.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Asthma,No,Yes,Yes,Yes,23,Male,Normal,Normal,Negative,239.0,96.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,22,Female,Normal,Normal,Negative,240.0,97.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Bronchitis,Yes,Yes,Yes,Yes,34,Female,Normal,High,Positive,241.0,99.3,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Bronchitis,Yes,Yes,Yes,Yes,33,Male,Normal,High,Positive,242.0,102.3,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,No,No,No,21,Female,Normal,Normal,Negative,243.0,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cold,Yes,Yes,No,No,22,Male,Normal,Normal,Negative,244.0,104.3,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Sore Throat,Yes,Yes,No,No,24,Male,Normal,Normal,Positive,245.0,101.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Sore Throat,No,Yes,No,No,25,Female,Normal,Normal,Positive,246.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Sinus Headache,No,Yes,Yes,No,27,Female,Normal,High,Negative,247.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Sinus Headache,No,Yes,No,No,28,Male,Normal,High,Negative,248.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Fever,Yes,No,Yes,No,24,Male,Normal,Normal,Positive,301.0,102.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Fever,Yes,No,Yes,No,22,Female,Normal,Normal,Positive,302.0,99.6,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Fever,Yes,No,No,No,20,Male,Normal,Normal,Positive,303.0,99.5,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Fever,Yes,Yes,Yes,No,19,Female,Normal,Normal,Positive,304.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Restlessness,No,No,Yes,No,21,Male,Normal,Normal,Negative,305.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Restlessness,No,No,Yes,No,23,Female,Normal,Normal,Negative,306.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Restlessness,No,No,Yes,No,26,Female,Normal,Normal,Negative,307.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Restlessness,No,No,Yes,No,24,Male,Normal,Normal,Negative,308.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Suffocation Episode,No,No,Yes,Yes,28,Male,Normal,Normal,Negative,309.0,96.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Suffocation Episode,No,Yes,Yes,Yes,31,Female,Normal,Normal,Negative,310.0,98.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Suffocation Episode,No,No,No,Yes,27,Female,Normal,Normal,Negative,311.0,97.4,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Suffocation Episode,No,No,Yes,Yes,30,Male,Low,Normal,Negative,312.0,97.4,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive,1.0,103.9,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,2.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,3.0,98.9,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,4.0,103.5,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,5.0,101.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive,6.0,99.5,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,7.0,103.7,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,8.0,102.4,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,9.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,10.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive,11.0,99.7,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative,12.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative,13.0,96.5,Normal,Normal fluid intake.,Temperature normal.
+Common Cold,No,No,No,No,29,Female,Low,Normal,Negative,14.0,97.6,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,No,No,29,Male,Low,Normal,Negative,15.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative,16.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative,17.0,99.7,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative,18.0,98.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive,19.0,103.5,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,20.0,102.5,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,21.0,104.8,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive,22.0,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,23.0,100.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,24.0,104.2,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Eczema,No,Yes,Yes,No,30,Male,High,High,Negative,25.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative,26.0,104.8,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative,27.0,99.1,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative,28.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative,29.0,99.3,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,30.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative,31.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative,32.0,98.9,Normal,Normal fluid intake.,Temperature normal.
+Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative,33.0,99.4,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,34.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,35.0,104.8,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,36.0,102.1,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,37.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive,38.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive,39.0,101.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,40.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,41.0,102.5,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive,42.0,98.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive,43.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Eczema,Yes,No,No,No,30,Male,High,High,Positive,44.0,100.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive,45.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive,46.0,104.3,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,47.0,101.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive,48.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive,49.0,100.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Urinary Tract Infection (UTI),Yes,No,No,No,30,Female,Normal,Normal,Positive,50.0,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative,51.0,97.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,Negative,52.0,97.3,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Common Cold,Yes,No,Yes,Yes,31,Male,High,High,Positive,53.0,102.5,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Migraine,Yes,No,No,No,31,Female,Normal,Normal,Positive,54.0,99.5,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,Positive,55.0,104.8,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,Negative,56.0,98.9,Normal,Normal fluid intake.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,35,Female,Normal,High,Negative,57.0,98.2,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,58.0,102.2,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,59.0,97.2,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,60.0,98.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Atherosclerosis,No,No,Yes,No,35,Male,Normal,Normal,Negative,61.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Negative,62.0,100.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,Negative,63.0,104.5,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Eczema,No,Yes,No,No,35,Male,High,Normal,Negative,64.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Epilepsy,No,No,Yes,No,35,Male,High,High,Negative,65.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,Negative,66.0,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative,67.0,102.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,Negative,68.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,69.0,104.6,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,70.0,104.2,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Psoriasis,Yes,No,No,No,35,Female,Normal,Low,Negative,71.0,99.3,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,Negative,72.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,73.0,101.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,74.0,103.9,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male,High,High,Negative,75.0,98.9,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,76.0,99.9,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,77.0,102.6,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cirrhosis,No,No,Yes,No,35,Female,Normal,High,Positive,78.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,Positive,79.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Depression,No,No,Yes,No,35,Female,Normal,High,Positive,80.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,Positive,81.0,104.0,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,82.0,101.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,83.0,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Kidney Cancer,No,No,Yes,No,35,Male,High,High,Positive,84.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Liver Cancer,No,No,Yes,No,35,Female,High,High,Positive,85.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Liver Disease,No,No,Yes,No,35,Male,High,High,Positive,86.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,87.0,103.9,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,88.0,105.0,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Migraine,No,Yes,Yes,No,35,Male,High,High,Positive,89.0,98.9,Normal,Normal fluid intake.,Temperature normal.
+Migraine,Yes,No,No,No,35,Male,High,High,Positive,90.0,102.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Pancreatitis,No,No,Yes,No,35,Male,Normal,High,Positive,91.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,Positive,92.0,104.7,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,Positive,93.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Spina Bifida,No,No,Yes,No,35,Female,Normal,Normal,Positive,94.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,Positive,95.0,97.6,Normal,Normal fluid intake.,Temperature normal.
+Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,Positive,96.0,99.8,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,Positive,97.0,104.7,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,Negative,98.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Depression,No,No,No,No,38,Female,Normal,High,Negative,99.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Negative,100.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Influenza,No,No,No,No,38,Male,Normal,Normal,Negative,101.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,Negative,102.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,Negative,103.0,99.7,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,Negative,104.0,98.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Osteoporosis,No,Yes,No,No,38,Female,Normal,High,Negative,105.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Stroke,Yes,Yes,No,No,38,Female,High,Normal,Negative,106.0,103.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,Positive,107.0,102.1,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,Positive,108.0,104.1,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Migraine,Yes,Yes,No,No,38,Male,High,High,Positive,109.0,102.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,Positive,110.0,102.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Positive,111.0,104.3,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Klinefelter Syndrome,No,No,Yes,No,39,Female,Normal,Normal,Positive,112.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Acne,No,No,Yes,No,40,Male,Normal,Normal,Negative,113.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,Negative,114.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,Negative,115.0,98.3,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,Negative,116.0,98.0,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Diabetes,Yes,No,No,No,40,Female,High,High,Negative,117.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Glaucoma,No,No,Yes,No,40,Male,High,Normal,Negative,118.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,Negative,119.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,120.0,99.1,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,121.0,101.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,No,Yes,No,40,Male,Low,Normal,Positive,122.0,102.5,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,123.0,101.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,124.0,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,No,No,Yes,Yes,40,Male,High,High,Positive,125.0,98.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,126.0,101.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,127.0,102.1,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,128.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,129.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,Positive,130.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,Positive,131.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Fibromyalgia,No,No,Yes,No,40,Female,High,High,Positive,132.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,Positive,133.0,99.9,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,Positive,134.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Hyperthyroidism,No,No,Yes,No,40,Male,High,High,Positive,135.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Hypoglycemia,No,No,Yes,No,40,Female,High,High,Positive,136.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Lymphoma,No,Yes,No,No,40,Female,Normal,High,Positive,137.0,97.6,Normal,Normal fluid intake.,Temperature normal.
+Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,Positive,138.0,104.9,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,Positive,139.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Psoriasis,Yes,No,No,No,40,Male,High,Normal,Positive,140.0,101.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Psoriasis,No,Yes,No,No,40,Female,Normal,High,Positive,141.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,142.0,100.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,143.0,99.5,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,Negative,144.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Common Cold,Yes,Yes,No,No,42,Female,High,High,Negative,145.0,99.8,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Depression,Yes,No,No,Yes,42,Male,High,Normal,Negative,146.0,99.9,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Influenza,No,Yes,No,No,42,Female,Normal,High,Negative,147.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,Negative,148.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,149.0,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,Negative,150.0,101.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,151.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Migraine,Yes,Yes,Yes,No,42,Male,High,High,Negative,152.0,101.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,Negative,153.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Stroke,Yes,No,Yes,No,42,Male,Normal,Low,Negative,154.0,100.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,Negative,155.0,97.0,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Diabetes,Yes,Yes,Yes,No,42,Male,High,Normal,Positive,156.0,99.2,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,157.0,100.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,158.0,100.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,Positive,159.0,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,Positive,160.0,96.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,Negative,161.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Autism Spectrum Disorder (ASD),No,No,Yes,No,45,Male,Normal,Normal,Negative,162.0,97.6,Normal,Normal fluid intake.,Temperature normal.
+Crohn's Disease,Yes,No,Yes,No,45,Male,High,Normal,Negative,163.0,100.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,164.0,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,165.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,Negative,166.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,167.0,96.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,Negative,168.0,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Melanoma,Yes,No,Yes,No,45,Male,High,Normal,Negative,169.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Migraine,No,No,No,No,45,Female,Low,Normal,Negative,170.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,Negative,171.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,172.0,98.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,Negative,173.0,99.4,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Stroke,No,No,Yes,No,45,Male,Normal,Normal,Negative,174.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,175.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,176.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,Negative,177.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,178.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,179.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,180.0,101.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,181.0,102.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,182.0,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,183.0,101.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cataracts,No,No,Yes,No,45,Female,Normal,High,Positive,184.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Crohn's Disease,No,No,Yes,No,45,Female,High,High,Positive,185.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Crohn's Disease,Yes,Yes,Yes,No,45,Female,High,High,Positive,186.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Depression,No,No,Yes,No,45,Female,High,High,Positive,187.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,Yes,No,Yes,No,45,Female,High,High,Positive,188.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Diabetes,No,Yes,Yes,No,45,Male,Normal,High,Positive,189.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,Yes,No,Yes,No,45,Male,Normal,High,Positive,190.0,102.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hypothyroidism,No,No,Yes,No,45,Female,High,High,Positive,191.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,192.0,101.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,193.0,102.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,194.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,Positive,195.0,100.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Osteoporosis,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,196.0,101.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female,High,High,Positive,197.0,99.1,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,Positive,198.0,100.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Scoliosis,No,No,No,No,45,Female,High,High,Positive,199.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,Positive,200.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,201.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,202.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,No,No,48,Female,Low,High,Negative,203.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,204.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,205.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,Negative,206.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Anemia,No,No,Yes,No,50,Male,Normal,Normal,Negative,207.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,Negative,208.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,209.0,102.5,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,210.0,103.5,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Crohn's Disease,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,211.0,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Crohn's Disease,No,No,Yes,No,50,Male,Normal,High,Negative,212.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Depression,No,Yes,Yes,No,50,Female,Low,Low,Negative,213.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,Yes,No,No,50,Male,Normal,High,Negative,214.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Endometriosis,Yes,No,No,No,50,Male,High,Normal,Negative,215.0,102.9,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Hypertension,No,Yes,No,No,50,Female,Normal,Low,Negative,216.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,217.0,101.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Kidney Cancer,No,Yes,No,No,50,Male,Low,High,Negative,218.0,98.9,Normal,Normal fluid intake.,Temperature normal.
+Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,Negative,219.0,98.0,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Pancreatitis,No,Yes,No,No,50,Male,Low,High,Negative,220.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,Negative,221.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative,222.0,99.9,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Sleep Apnea,Yes,No,Yes,Yes,50,Male,High,High,Negative,223.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,Negative,224.0,100.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,Positive,225.0,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,Positive,226.0,100.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Down Syndrome,No,No,Yes,No,50,Female,High,High,Positive,227.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,228.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,229.0,99.5,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Eczema,No,Yes,No,No,50,Female,High,High,Positive,230.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,Positive,231.0,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Klinefelter Syndrome,No,No,Yes,No,50,Female,Normal,Normal,Positive,232.0,98.9,Normal,Normal fluid intake.,Temperature normal.
+Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,Positive,233.0,96.8,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,234.0,101.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,235.0,104.8,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,Positive,236.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Pneumothorax,No,No,Yes,Yes,50,Female,High,High,Positive,237.0,98.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Stroke,No,Yes,Yes,Yes,50,Male,High,High,Positive,238.0,97.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,Positive,239.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative,240.0,103.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,241.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,242.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative,243.0,102.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative,244.0,97.2,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative,245.0,103.6,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative,246.0,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative,247.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative,248.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,249.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,250.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Hypertension,No,Yes,No,No,55,Female,Normal,Low,Negative,251.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Liver Disease,No,Yes,Yes,No,55,Male,High,Low,Negative,252.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Marfan Syndrome,No,No,Yes,No,55,Male,High,High,Negative,253.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,Negative,254.0,97.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Osteoporosis,No,No,Yes,No,55,Male,High,Normal,Negative,255.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,256.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,257.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,Positive,258.0,99.3,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,259.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,260.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Hemorrhoids,No,No,No,No,55,Female,High,High,Positive,261.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,Yes,No,Yes,No,55,Male,High,Normal,Positive,262.0,104.9,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Hypothyroidism,No,No,Yes,No,55,Female,High,High,Positive,263.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,Positive,264.0,103.9,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,Positive,265.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,Positive,266.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,267.0,103.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,268.0,102.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,Female,Normal,Normal,Positive,269.0,101.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female,High,High,Positive,270.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,271.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,272.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Influenza,Yes,Yes,Yes,Yes,56,Male,High,High,Positive,273.0,104.0,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,Negative,274.0,104.8,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Breast Cancer,No,No,Yes,No,60,Male,High,High,Negative,275.0,96.8,Normal,Normal fluid intake.,Temperature normal.
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,276.0,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,277.0,104.6,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative,278.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,279.0,99.4,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,280.0,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative,281.0,97.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative,282.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative,283.0,99.8,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,284.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,285.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative,286.0,100.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,287.0,100.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,Positive,288.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,Positive,289.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,290.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,291.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,Yes,No,60,Female,High,Normal,Positive,292.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,Yes,No,Yes,No,60,Male,High,Normal,Positive,293.0,101.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Hypertension,No,No,No,No,60,Female,High,High,Positive,294.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,295.0,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,296.0,101.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,Positive,297.0,101.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Pancreatitis,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,298.0,100.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,299.0,103.5,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,300.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Prader-Willi Syndrome,No,No,Yes,No,60,Female,Normal,Normal,Positive,301.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Rheumatoid Arthritis,No,No,Yes,No,60,Female,High,High,Positive,302.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Thyroid Cancer,No,No,Yes,No,60,Female,High,High,Positive,303.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Tuberculosis,Yes,Yes,Yes,No,60,Female,High,High,Positive,304.0,102.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Bladder Cancer,No,No,Yes,No,65,Male,Normal,Normal,Negative,305.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative,306.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative,307.0,99.7,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,308.0,104.6,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,309.0,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative,310.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male,High,Normal,Negative,311.0,99.8,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,312.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,313.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Alzheimer's Disease,No,No,Yes,No,65,Female,High,High,Positive,314.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive,315.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,316.0,103.7,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,317.0,99.9,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Dementia,No,No,Yes,No,65,Female,High,High,Positive,318.0,97.2,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive,319.0,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive,320.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,321.0,99.2,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,322.0,102.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive,323.0,103.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,324.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,325.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive,326.0,98.5,Normal,Normal fluid intake.,Temperature normal.
+Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive,327.0,99.7,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,328.0,104.1,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,329.0,99.8,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative,330.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,331.0,98.4,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,332.0,96.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative,333.0,100.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Parkinson's Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative,334.0,98.2,Normal,Normal fluid intake.,Temperature normal.
+Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative,335.0,103.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative,336.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive,337.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive,338.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,339.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,340.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive,341.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive,342.0,104.5,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive,343.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,344.0,101.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,345.0,101.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,346.0,104.7,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,347.0,99.9,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,348.0,102.5,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,349.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Common Cold,Yes,Yes,No,No,25,Male,Normal,Normal,Negative,101.0,102.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Common Cold,Yes,Yes,No,No,22,Female,Normal,Normal,Negative,102.0,99.1,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Common Cold,Yes,No,Yes,No,20,Female,Normal,Normal,Negative,103.0,104.2,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Common Cold,Yes,Yes,No,No,27,Male,Normal,Normal,Negative,104.0,104.6,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Common Cold,Yes,Yes,No,No,25,Male,Normal,Normal,Negative,105.0,102.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Influenza,Yes,Yes,Yes,Yes,22,Male,High,Normal,Positive,106.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Influenza,Yes,Yes,Yes,Yes,24,Female,Low,Normal,Positive,107.0,104.5,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Influenza,Yes,No,Yes,No,26,Female,Normal,High,Positive,108.0,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Influenza,Yes,Yes,Yes,Yes,28,Female,Normal,Normal,Positive,109.0,99.9,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Influenza,Yes,No,Yes,No,25,Male,Normal,Normal,Positive,110.0,102.5,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Asthma,No,Yes,Yes,Yes,23,Male,Normal,Normal,Negative,111.0,98.0,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,No,Yes,Yes,21,Female,Normal,Normal,Negative,112.0,97.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,22,Male,Normal,Normal,Negative,113.0,98.3,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,No,Yes,20,Female,Normal,Normal,Negative,114.0,98.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,29,Male,Normal,Normal,Negative,115.0,98.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Gastroenteritis,Yes,No,Yes,No,20,Female,Low,Normal,Negative,116.0,101.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Gastroenteritis,Yes,No,Yes,No,21,Male,Low,Normal,Negative,117.0,99.7,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Gastroenteritis,No,No,Yes,No,22,Female,Low,Normal,Negative,118.0,98.9,Normal,Normal fluid intake.,Temperature normal.
+Gastroenteritis,Yes,Yes,Yes,No,24,Male,Low,Normal,Negative,119.0,104.0,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Gastroenteritis,Yes,No,Yes,No,26,Female,Low,High,Negative,120.0,99.7,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Diabetes,No,No,Yes,No,45,Male,High,High,Negative,121.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,Yes,No,42,Female,High,High,Negative,122.0,98.6,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,Yes,No,48,Female,High,High,Negative,123.0,97.7,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,Yes,No,52,Male,High,High,Negative,124.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Diabetes,No,No,Yes,No,40,Female,High,High,Negative,125.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+COVID-19,Yes,Yes,Yes,Yes,35,Female,High,Normal,Positive,126.0,99.3,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+COVID-19,Yes,Yes,Yes,Yes,32,Male,High,Normal,Positive,127.0,101.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+COVID-19,Yes,Yes,Yes,Yes,31,Female,High,Normal,Positive,128.0,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+COVID-19,Yes,Yes,Yes,Yes,36,Male,High,Normal,Positive,129.0,99.0,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+COVID-19,Yes,Yes,Yes,Yes,33,Female,High,Normal,Positive,130.0,101.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Hypertension,No,No,No,No,55,Male,High,High,Negative,131.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,No,No,53,Female,High,High,Negative,132.0,97.8,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,No,No,52,Male,High,High,Negative,133.0,98.7,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,No,No,54,Female,High,High,Negative,134.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Hypertension,No,No,No,No,57,Male,High,High,Negative,135.0,97.3,Normal,Normal fluid intake.,Temperature normal.
+Common Cold,Yes,Yes,No,No,25,Male,Normal,Normal,Negative,201.0,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Common Cold,Yes,Yes,No,No,26,Female,Normal,Normal,Negative,202.0,101.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Common Cold,No,Yes,No,No,28,Male,Normal,Normal,Negative,203.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Flu,Yes,Yes,Yes,No,30,Male,Normal,Normal,Positive,204.0,101.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Flu,Yes,No,Yes,No,27,Female,Normal,Normal,Positive,205.0,99.8,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Flu,Yes,Yes,Yes,Yes,32,Female,High,Normal,Positive,206.0,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Viral Fever,Yes,No,Yes,No,18,Male,Normal,Normal,Positive,207.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Viral Fever,Yes,Yes,Yes,No,19,Female,Normal,Normal,Positive,208.0,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Viral Fever,Yes,No,Yes,No,21,Male,Normal,Normal,Positive,209.0,104.5,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Migraine,No,No,Yes,No,23,Female,Normal,Normal,Negative,210.0,97.4,Normal,Normal fluid intake.,Temperature normal.
+Migraine,No,No,Yes,No,22,Male,Normal,Normal,Negative,211.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Migraine,No,No,Yes,No,24,Female,Normal,Normal,Negative,212.0,98.0,Normal,Normal fluid intake.,Temperature normal.
+Sinusitis,No,Yes,Yes,No,30,Female,Normal,High,Negative,213.0,96.5,Normal,Normal fluid intake.,Temperature normal.
+Sinusitis,No,Yes,No,No,31,Male,Normal,High,Negative,214.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Sinusitis,No,Yes,Yes,No,29,Female,Normal,High,Negative,215.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Allergy,No,Yes,No,No,26,Male,Normal,Normal,Negative,216.0,98.8,Normal,Normal fluid intake.,Temperature normal.
+Allergy,No,Yes,Yes,No,27,Female,Normal,Normal,Negative,217.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Allergy,No,Yes,No,No,25,Female,Normal,Normal,Negative,218.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+COVID-19,Yes,Yes,Yes,Yes,35,Female,High,Normal,Positive,219.0,99.5,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+COVID-19,Yes,Yes,Yes,Yes,32,Male,High,Normal,Positive,220.0,105.0,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+COVID-19,Yes,Yes,Yes,Yes,33,Female,High,Normal,Positive,221.0,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Headache,No,No,Yes,No,22,Male,Normal,Normal,Negative,222.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Headache,No,No,Yes,No,21,Female,Normal,Normal,Negative,223.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Headache,No,No,Yes,No,27,Female,Normal,Normal,Negative,224.0,98.3,Normal,Normal fluid intake.,Temperature normal.
+Throat Infection,Yes,Yes,No,No,25,Male,Normal,Normal,Positive,225.0,100.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Throat Infection,Yes,Yes,No,No,26,Female,Normal,Normal,Positive,226.0,104.4,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Throat Infection,No,Yes,No,No,28,Male,Normal,Normal,Positive,227.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Muscle Pain,No,No,Yes,No,29,Male,Normal,Normal,Negative,228.0,97.0,Normal,Normal fluid intake.,Temperature normal.
+Muscle Pain,No,No,Yes,No,31,Female,Normal,Normal,Negative,229.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Muscle Pain,No,No,Yes,No,30,Male,Normal,Normal,Negative,230.0,97.6,Normal,Normal fluid intake.,Temperature normal.
+Seasonal Allergy,No,Yes,No,No,24,Female,Normal,Normal,Negative,231.0,97.9,Normal,Normal fluid intake.,Temperature normal.
+Seasonal Allergy,No,Yes,No,No,23,Male,Normal,Normal,Negative,232.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Body Ache,No,No,Yes,No,28,Female,Normal,Normal,Negative,233.0,98.4,Normal,Normal fluid intake.,Temperature normal.
+Body Ache,No,No,Yes,No,27,Male,Normal,Normal,Negative,234.0,97.6,Normal,Normal fluid intake.,Temperature normal.
+Dengue,Yes,No,Yes,No,18,Female,Normal,High,Positive,235.0,102.1,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Dengue,Yes,No,Yes,No,20,Male,Normal,High,Positive,236.0,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Typhoid,Yes,No,Yes,No,24,Male,High,Normal,Positive,237.0,101.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Typhoid,Yes,No,Yes,No,25,Female,High,Normal,Positive,238.0,102.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Asthma,No,Yes,Yes,Yes,23,Male,Normal,Normal,Negative,239.0,96.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,22,Female,Normal,Normal,Negative,240.0,96.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Bronchitis,Yes,Yes,Yes,Yes,34,Female,Normal,High,Positive,241.0,104.2,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Bronchitis,Yes,Yes,Yes,Yes,33,Male,Normal,High,Positive,242.0,104.7,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Cold,Yes,No,No,No,21,Female,Normal,Normal,Negative,243.0,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cold,Yes,Yes,No,No,22,Male,Normal,Normal,Negative,244.0,100.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Sore Throat,Yes,Yes,No,No,24,Male,Normal,Normal,Positive,245.0,102.9,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Sore Throat,No,Yes,No,No,25,Female,Normal,Normal,Positive,246.0,97.5,Normal,Normal fluid intake.,Temperature normal.
+Sinus Headache,No,Yes,Yes,No,27,Female,Normal,High,Negative,247.0,96.6,Normal,Normal fluid intake.,Temperature normal.
+Sinus Headache,No,Yes,No,No,28,Male,Normal,High,Negative,248.0,96.9,Normal,Normal fluid intake.,Temperature normal.
+Fever,Yes,No,Yes,No,24,Male,Normal,Normal,Positive,301.0,103.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Fever,Yes,No,Yes,No,22,Female,Normal,Normal,Positive,302.0,103.0,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Fever,Yes,No,No,No,20,Male,Normal,Normal,Positive,303.0,99.2,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Fever,Yes,Yes,Yes,No,19,Female,Normal,Normal,Positive,304.0,100.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Restlessness,No,No,Yes,No,21,Male,Normal,Normal,Negative,305.0,97.1,Normal,Normal fluid intake.,Temperature normal.
+Restlessness,No,No,Yes,No,23,Female,Normal,Normal,Negative,306.0,98.1,Normal,Normal fluid intake.,Temperature normal.
+Restlessness,No,No,Yes,No,26,Female,Normal,Normal,Negative,307.0,96.5,Normal,Normal fluid intake.,Temperature normal.
+Restlessness,No,No,Yes,No,24,Male,Normal,Normal,Negative,308.0,96.7,Normal,Normal fluid intake.,Temperature normal.
+Suffocation Episode,No,No,Yes,Yes,28,Male,Normal,Normal,Negative,309.0,98.4,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Suffocation Episode,No,Yes,Yes,Yes,31,Female,Normal,Normal,Negative,310.0,96.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Suffocation Episode,No,No,No,Yes,27,Female,Normal,Normal,Negative,311.0,98.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Suffocation Episode,No,No,Yes,Yes,30,Male,Low,Normal,Negative,312.0,97.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Covid,Yes,Yes,No,Yes,29,Female,Low,Normal,Moderate,,99.6,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Flu,No,No,Yes,Yes,63,Female,Low,Low,Moderate,,97.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,Yes,Yes,No,Yes,51,Male,High,High,Moderate,,103.3,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,No,No,Yes,79,Male,Normal,Low,Severe,,104.1,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Cold,Yes,Yes,Yes,Yes,41,Male,Normal,Normal,Mild,,104.0,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Covid,No,No,Yes,Yes,53,Female,Normal,Normal,Moderate,,97.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Covid,No,No,Yes,Yes,17,Male,Low,High,Moderate,,98.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,No,No,Yes,Yes,70,Male,Normal,Normal,Moderate,,97.0,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,No,Yes,No,Yes,10,Male,Low,Normal,Severe,,97.2,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,No,No,No,Yes,15,Male,Low,Normal,Moderate,,98.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,Yes,Yes,Yes,Yes,73,Female,Normal,High,Moderate,,99.1,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Cold,Yes,Yes,No,No,15,Female,Normal,High,Severe,,99.5,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Asthma,Yes,No,No,Yes,76,Female,Low,High,Mild,,100.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cold,Yes,Yes,Yes,Yes,40,Male,High,High,Severe,,99.2,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Asthma,No,No,Yes,Yes,18,Male,High,Normal,Severe,,96.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,No,Yes,No,Yes,76,Female,High,Normal,Severe,,97.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,Yes,No,No,Yes,29,Male,High,High,Mild,,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,No,Yes,Yes,No,13,Female,High,High,Severe,,98.6,Normal,Normal fluid intake.,Temperature normal.
+Flu,No,Yes,No,Yes,42,Male,Normal,Normal,Mild,,98.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,No,Yes,No,No,42,Male,Normal,Normal,Severe,,97.3,Normal,Normal fluid intake.,Temperature normal.
+Flu,No,Yes,No,Yes,12,Female,Normal,Low,Mild,,97.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,Yes,No,Yes,77,Female,High,High,Mild,,101.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,No,Yes,Yes,Yes,37,Female,High,Low,Severe,,97.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,No,Yes,Yes,Yes,36,Female,Low,High,Mild,,97.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,No,No,61,Male,Low,Normal,Moderate,,98.0,Normal,Normal fluid intake.,Temperature normal.
+Covid,Yes,No,No,No,49,Male,Normal,Normal,Severe,,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,No,Yes,No,Yes,35,Female,High,Normal,Severe,,97.8,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,No,Yes,Yes,33,Female,Normal,Normal,Moderate,,101.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,No,Yes,Yes,No,64,Female,Low,High,Moderate,,97.2,Normal,Normal fluid intake.,Temperature normal.
+Cold,No,Yes,No,No,34,Male,High,Normal,Mild,,98.8,Normal,Normal fluid intake.,Temperature normal.
+Asthma,No,Yes,No,Yes,28,Female,Normal,Low,Moderate,,98.3,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,Yes,No,No,Yes,76,Female,High,High,Severe,,99.8,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Flu,Yes,No,Yes,Yes,57,Female,Low,Normal,Mild,,104.2,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Asthma,Yes,No,Yes,Yes,39,Male,High,High,Moderate,,101.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,Yes,No,No,36,Female,Low,Low,Severe,,104.4,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Asthma,Yes,Yes,Yes,Yes,16,Female,Normal,High,Moderate,,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Asthma,No,No,Yes,Yes,53,Male,Normal,High,Mild,,97.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Covid,Yes,No,Yes,No,12,Female,Normal,Low,Severe,,99.1,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Asthma,Yes,No,Yes,No,41,Male,Normal,High,Moderate,,100.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cold,Yes,No,Yes,No,39,Male,Normal,Low,Mild,,102.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Covid,Yes,No,No,Yes,33,Female,Low,High,Mild,,102.8,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,No,Yes,Yes,29,Female,High,Normal,Mild,,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cold,No,No,Yes,Yes,17,Male,Normal,High,Moderate,,96.8,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,Yes,Yes,No,Yes,10,Male,High,Normal,Moderate,,104.0,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Cold,Yes,No,Yes,No,76,Female,Normal,Normal,Severe,,104.9,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Flu,Yes,Yes,No,No,60,Female,Normal,High,Moderate,,102.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Covid,Yes,No,Yes,Yes,46,Male,Normal,Low,Moderate,,100.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cold,No,Yes,Yes,No,52,Female,Normal,Normal,Severe,,97.2,Normal,Normal fluid intake.,Temperature normal.
+Asthma,No,No,Yes,Yes,60,Male,Normal,High,Mild,,96.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,Yes,Yes,Yes,No,23,Female,Normal,Low,Moderate,,104.5,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Asthma,Yes,Yes,Yes,Yes,53,Male,Low,High,Moderate,,99.7,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Asthma,No,Yes,No,Yes,75,Female,High,High,Mild,,97.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,Yes,No,Yes,70,Male,Normal,High,Severe,,100.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,No,Yes,No,No,23,Male,Low,Low,Mild,,97.8,Normal,Normal fluid intake.,Temperature normal.
+Cold,No,No,Yes,No,13,Female,Low,Normal,Moderate,,98.1,Normal,Normal fluid intake.,Temperature normal.
+Flu,No,Yes,No,Yes,51,Male,Low,Normal,Mild,,98.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,Yes,Yes,Yes,No,27,Female,High,High,Mild,,100.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Flu,Yes,Yes,No,No,73,Female,Low,Low,Severe,,99.1,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Covid,No,Yes,Yes,No,57,Female,Low,Normal,Severe,,96.8,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,Yes,No,Yes,32,Female,Normal,Normal,Moderate,,104.4,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Covid,Yes,No,No,Yes,60,Male,Normal,High,Severe,,104.2,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Flu,Yes,No,Yes,No,14,Male,Normal,Low,Mild,,102.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Cold,No,No,Yes,No,39,Male,High,High,Moderate,,97.9,Normal,Normal fluid intake.,Temperature normal.
+Cold,No,No,No,No,52,Female,Low,Normal,Moderate,,98.1,Normal,Normal fluid intake.,Temperature normal.
+Cold,Yes,No,Yes,No,70,Female,Low,Low,Severe,,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,No,No,Yes,No,48,Male,Normal,Normal,Mild,,98.7,Normal,Normal fluid intake.,Temperature normal.
+Cold,Yes,Yes,Yes,Yes,64,Female,High,Low,Severe,,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,No,Yes,No,Yes,25,Male,High,Normal,Moderate,,97.4,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,No,Yes,Yes,Yes,36,Female,Low,Low,Severe,,97.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,Yes,No,Yes,13,Male,High,High,Moderate,,99.3,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Asthma,No,Yes,Yes,Yes,24,Female,Normal,Normal,Mild,,96.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,No,Yes,No,51,Male,Normal,Low,Mild,,98.3,Normal,Normal fluid intake.,Temperature normal.
+Cold,No,No,Yes,No,79,Female,Low,Normal,Moderate,,96.7,Normal,Normal fluid intake.,Temperature normal.
+Cold,Yes,Yes,Yes,Yes,40,Female,High,Low,Mild,,102.6,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Flu,Yes,No,Yes,No,51,Male,Normal,High,Severe,,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Flu,No,Yes,No,No,74,Female,Normal,High,Moderate,,97.4,Normal,Normal fluid intake.,Temperature normal.
+Asthma,No,No,No,Yes,61,Female,Normal,Normal,Moderate,,97.2,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,Yes,Yes,No,Yes,24,Female,High,Normal,Moderate,,101.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,Yes,No,Yes,No,49,Male,High,Normal,Moderate,,103.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,Yes,No,Yes,64,Female,High,Low,Severe,,100.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,No,Yes,Yes,No,33,Male,High,High,Mild,,97.9,Normal,Normal fluid intake.,Temperature normal.
+Asthma,No,Yes,Yes,Yes,50,Male,Low,Low,Mild,,97.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,No,Yes,No,Yes,40,Female,Low,Low,Moderate,,98.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,No,Yes,Yes,Yes,70,Female,High,Low,Severe,,98.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,Yes,Yes,Yes,48,Female,High,High,Moderate,,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cold,No,Yes,No,No,28,Female,High,High,Mild,,97.0,Normal,Normal fluid intake.,Temperature normal.
+Covid,Yes,Yes,Yes,No,53,Female,Normal,Low,Mild,,99.2,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Cold,Yes,No,Yes,Yes,58,Female,Low,Normal,Mild,,100.6,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cold,No,Yes,No,Yes,64,Male,Low,High,Severe,,97.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Covid,No,No,No,Yes,19,Female,Normal,High,Severe,,96.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,Yes,No,Yes,Yes,22,Female,Normal,Normal,Moderate,,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,No,No,No,60,Female,Low,Low,Moderate,,102.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Asthma,Yes,Yes,Yes,No,22,Female,Normal,Low,Severe,,101.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,No,Yes,Yes,77,Female,Normal,High,Moderate,,103.6,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,No,No,Yes,32,Female,Low,High,Severe,,99.6,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Flu,Yes,No,Yes,No,55,Female,Low,High,Mild,,99.5,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Covid,Yes,No,Yes,Yes,61,Female,High,High,Moderate,,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Flu,Yes,Yes,No,Yes,12,Female,Low,Normal,Severe,,102.0,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,Yes,Yes,Yes,32,Male,Normal,Normal,Mild,,103.1,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Flu,No,No,Yes,Yes,64,Male,Low,Low,Severe,,97.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,No,No,24,Male,Normal,High,Severe,,97.1,Normal,Normal fluid intake.,Temperature normal.
+Cold,Yes,No,No,No,11,Female,High,Low,Severe,,103.9,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Flu,Yes,No,Yes,No,47,Female,High,Normal,Mild,,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Covid,No,Yes,No,Yes,37,Female,High,High,Mild,,98.2,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,No,Yes,No,57,Female,Normal,Low,Mild,,97.2,Normal,Normal fluid intake.,Temperature normal.
+Covid,No,No,Yes,No,76,Male,High,Low,Severe,,97.9,Normal,Normal fluid intake.,Temperature normal.
+Cold,Yes,Yes,No,Yes,62,Female,Low,Low,Moderate,,101.2,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cold,No,Yes,No,No,11,Male,Low,High,Moderate,,96.7,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,No,No,No,77,Male,Normal,Low,Mild,,104.5,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Flu,No,Yes,Yes,No,76,Male,High,High,Severe,,96.8,Normal,Normal fluid intake.,Temperature normal.
+Asthma,Yes,Yes,Yes,No,59,Female,Normal,Low,Severe,,104.7,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Covid,Yes,No,No,Yes,59,Female,Low,Low,Mild,,101.7,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Flu,No,Yes,No,No,71,Male,Low,High,Mild,,96.9,Normal,Normal fluid intake.,Temperature normal.
+Asthma,No,Yes,No,No,71,Female,Normal,Normal,Severe,,97.8,Normal,Normal fluid intake.,Temperature normal.
+Cold,Yes,No,Yes,No,59,Female,High,Low,Moderate,,104.2,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Covid,Yes,Yes,Yes,No,63,Male,Low,Normal,Severe,,103.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Flu,No,No,Yes,Yes,55,Male,High,Low,Moderate,,98.4,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,Yes,Yes,Yes,Yes,52,Female,High,High,Mild,,103.0,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cold,No,No,Yes,No,52,Male,High,Low,Severe,,98.2,Normal,Normal fluid intake.,Temperature normal.
+Covid,Yes,Yes,No,No,44,Male,High,Normal,Mild,,104.1,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Cold,Yes,No,Yes,No,13,Male,Normal,Low,Severe,,100.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,Yes,Yes,No,Yes,38,Male,High,Normal,Moderate,,101.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,Yes,No,Yes,Yes,50,Female,Normal,Normal,Moderate,,100.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,No,Yes,No,76,Male,High,Low,Mild,,104.9,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Covid,Yes,No,Yes,Yes,11,Male,Low,High,Severe,,104.7,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Flu,No,No,No,No,11,Female,Normal,High,Moderate,,96.6,Normal,Normal fluid intake.,Temperature normal.
+Flu,No,Yes,No,Yes,59,Female,Low,High,Severe,,98.2,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,No,Yes,Yes,58,Male,Normal,Normal,Moderate,,98.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,No,No,Yes,74,Male,Low,High,Mild,,100.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,Yes,Yes,Yes,No,77,Male,Low,High,Severe,,102.4,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Cold,No,No,No,No,64,Male,High,Low,Mild,,98.7,Normal,Normal fluid intake.,Temperature normal.
+Flu,Yes,Yes,Yes,No,12,Female,Normal,Normal,Severe,,99.2,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Flu,Yes,No,No,No,58,Male,Low,Low,Severe,,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,No,Yes,No,37,Male,High,Low,Severe,,100.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Flu,No,Yes,No,No,28,Female,High,High,Moderate,,98.7,Normal,Normal fluid intake.,Temperature normal.
+Covid,No,Yes,No,Yes,42,Female,High,High,Moderate,,98.8,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,No,Yes,Yes,No,48,Female,Normal,Low,Severe,,98.8,Normal,Normal fluid intake.,Temperature normal.
+Flu,Yes,No,No,No,31,Female,Normal,High,Mild,,101.8,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,No,No,No,Yes,33,Male,High,High,Moderate,,98.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,No,Yes,No,No,31,Female,Low,High,Severe,,98.5,Normal,Normal fluid intake.,Temperature normal.
+Flu,No,No,No,No,19,Female,Normal,Low,Moderate,,97.3,Normal,Normal fluid intake.,Temperature normal.
+Flu,Yes,Yes,No,Yes,36,Male,Low,Low,Mild,,104.0,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Asthma,No,No,Yes,No,71,Female,High,Low,Mild,,96.6,Normal,Normal fluid intake.,Temperature normal.
+Covid,No,Yes,No,Yes,72,Female,Normal,Low,Moderate,,97.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,Yes,No,63,Female,Low,Low,Severe,,97.1,Normal,Normal fluid intake.,Temperature normal.
+Cold,No,No,Yes,No,65,Female,Normal,Normal,Moderate,,96.8,Normal,Normal fluid intake.,Temperature normal.
+Cold,Yes,No,No,No,48,Female,High,High,Moderate,,99.5,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Asthma,Yes,No,No,Yes,63,Female,Normal,Normal,Mild,,103.2,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cold,No,Yes,Yes,No,27,Male,Low,High,Moderate,,97.3,Normal,Normal fluid intake.,Temperature normal.
+Cold,Yes,Yes,No,No,27,Female,High,Normal,Severe,,103.3,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Flu,Yes,No,Yes,Yes,78,Female,Low,High,Severe,,99.4,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Covid,Yes,No,Yes,No,54,Male,High,Normal,Severe,,100.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,Yes,No,Yes,Yes,13,Male,Normal,Low,Severe,,102.2,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Flu,Yes,Yes,Yes,No,11,Female,Normal,Low,Severe,,103.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Covid,Yes,Yes,No,Yes,38,Female,Normal,High,Severe,,100.9,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,No,No,No,No,68,Male,High,Low,Severe,,98.0,Normal,Normal fluid intake.,Temperature normal.
+Flu,No,No,No,Yes,61,Male,Low,Low,Mild,,98.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,No,No,Yes,18,Female,High,Normal,Mild,,98.0,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,No,Yes,Yes,Yes,52,Male,Low,High,Severe,,97.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,Yes,Yes,Yes,No,63,Female,Low,Normal,Severe,,99.1,Mild,Drink extra 1–2 glasses water; rest.,"Mild fever: rest, hydrate, monitor temperature."
+Cold,No,No,Yes,No,43,Male,Low,High,Moderate,,98.6,Normal,Normal fluid intake.,Temperature normal.
+Cold,No,No,No,No,55,Male,Low,Normal,Severe,,96.6,Normal,Normal fluid intake.,Temperature normal.
+Flu,Yes,Yes,Yes,Yes,56,Female,Low,High,Moderate,,104.2,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Asthma,Yes,Yes,Yes,Yes,62,Male,Normal,Normal,Mild,,102.2,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Asthma,Yes,Yes,Yes,No,72,Female,High,Normal,Severe,,104.6,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Flu,Yes,Yes,Yes,Yes,60,Female,Low,High,Moderate,,103.8,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Covid,No,No,No,Yes,45,Male,Normal,High,Mild,,98.9,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,No,Yes,No,Yes,66,Female,Low,High,Severe,,97.3,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,Yes,No,No,24,Male,High,Low,Severe,,103.6,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,No,No,No,22,Female,High,Normal,Mild,,101.4,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Flu,No,No,Yes,Yes,49,Male,Low,Normal,Moderate,,97.7,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,No,Yes,No,No,14,Female,Low,Low,Mild,,98.0,Normal,Normal fluid intake.,Temperature normal.
+Flu,Yes,No,Yes,Yes,78,Female,Low,Low,Severe,,104.2,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Flu,No,No,No,No,43,Female,Normal,High,Moderate,,98.9,Normal,Normal fluid intake.,Temperature normal.
+Covid,No,Yes,Yes,Yes,77,Female,Low,Normal,Mild,,98.3,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Asthma,Yes,No,No,Yes,34,Male,Low,High,Moderate,,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Asthma,No,No,Yes,Yes,44,Male,Normal,High,Mild,,97.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,No,No,Yes,No,56,Female,High,Normal,Mild,,98.3,Normal,Normal fluid intake.,Temperature normal.
+Flu,No,No,No,Yes,72,Male,Low,Low,Severe,,97.1,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,No,Yes,No,Yes,59,Male,High,Normal,Severe,,96.8,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,Yes,Yes,Yes,No,15,Male,Low,Low,Mild,,101.1,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Covid,No,No,Yes,No,12,Male,High,Low,Mild,,97.2,Normal,Normal fluid intake.,Temperature normal.
+Cold,No,Yes,No,Yes,52,Male,Low,High,Mild,,97.2,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,No,No,No,No,50,Female,High,Normal,Severe,,97.1,Normal,Normal fluid intake.,Temperature normal.
+Covid,No,Yes,No,Yes,32,Female,High,High,Moderate,,96.6,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,No,No,Yes,Yes,19,Male,Normal,Low,Moderate,,96.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Flu,Yes,No,No,Yes,25,Female,Normal,Normal,Severe,,104.9,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Asthma,No,No,No,Yes,62,Female,Low,Normal,Moderate,,97.5,Normal,Normal fluid intake. Difficulty breathing: seek medical help immediately.,Temperature normal.
+Cold,No,No,Yes,No,53,Male,Low,Low,Severe,,97.4,Normal,Normal fluid intake.,Temperature normal.
+Cold,No,No,Yes,No,71,Female,Low,Low,Moderate,,98.1,Normal,Normal fluid intake.,Temperature normal.
+Covid,Yes,No,Yes,Yes,13,Female,High,Low,Moderate,,100.3,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cold,No,Yes,Yes,No,47,Male,Low,Normal,Moderate,,98.8,Normal,Normal fluid intake.,Temperature normal.
+Covid,Yes,Yes,Yes,No,39,Male,Low,Low,Mild,,103.7,High,Drink 4–6 glasses + ORS; consult doctor if persists.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,No,No,Yes,43,Female,Low,Normal,Mild,,99.5,Mild,Drink extra 1–2 glasses water; rest. Difficulty breathing: seek medical help immediately.,"Mild fever: rest, hydrate, monitor temperature."
+Flu,Yes,Yes,No,No,73,Female,High,Normal,Mild,,101.5,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature.,Moderate fever: paracetamol may be taken; rest & hydrate.
+Cold,Yes,Yes,Yes,Yes,73,Male,Normal,High,Moderate,,104.3,Severe,"High hydration, ORS, seek immediate medical attention. Difficulty breathing: seek medical help immediately.","High fever: cool compress, immediate doctor visit recommended."
+Flu,Yes,No,No,No,14,Male,Low,High,Mild,,104.7,Severe,"High hydration, ORS, seek immediate medical attention.","High fever: cool compress, immediate doctor visit recommended."
+Cold,No,Yes,No,No,72,Male,Low,High,Mild,,97.6,Normal,Normal fluid intake.,Temperature normal.
+Covid,Yes,Yes,No,Yes,59,Female,Low,Low,Moderate,,102.7,High,Drink 4–6 glasses + ORS; consult doctor if persists. Difficulty breathing: seek medical help immediately.,High fever: cooling measures and doctor consult advised.
+Cold,Yes,No,Yes,Yes,32,Male,Low,High,Moderate,,100.0,Moderate,Drink ORS or 3–4 glasses extra; monitor temperature. Difficulty breathing: seek medical help immediately.,Moderate fever: paracetamol may be taken; rest & hydrate.
